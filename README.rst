@@ -25,11 +25,11 @@ al_nano_crystals and pdcusi_glass_structure is too large to be stored on github 
 
 The data for the al_nano_crystals can be downloaded from:
 
-> Insert link here
+> https://acdc.alcf.anl.gov/mdf/detail/4dclustering_v1.1/
 
 The data for the pdcusi_glass_structure can be downloaded from:
 
-> Insert link here
+> https://acdc.alcf.anl.gov/mdf/detail/4dclustering_v1.1/
 
 Smaller (perhaps more useful) versions of this data processing can be found in the pyxem documentation and
 will easily run on a laptop.
